@@ -1,0 +1,30 @@
+{
+  "templates": {
+    "definitions": [
+      {
+        "name": "app.component",
+        "data": {
+          "url": "app/templates/app.component.html"
+        }
+      },
+      {
+        "name": "dashboard.component",
+        "data": {
+          "url": "app/templates/dashboard.component.html"
+        }
+      },
+      {
+        "name": "hero-detail.component",
+        "data": {
+          "url": "app/templates/hero-detail.component.html"
+        }
+      },
+      {
+        "name": "heroes.component",
+        "data": {
+          "url": "app/templates/heroes.component.html"
+        }
+      }
+    ]
+  }
+}

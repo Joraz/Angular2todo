@@ -1,0 +1,1 @@
+import {DynamicComponentLoader} from "angular2/core";
